@@ -72,8 +72,6 @@ export function Countdown() {
           )}
         </>
       )}
-
-
     </div>
   );
 }
