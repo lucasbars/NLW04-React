@@ -15,7 +15,6 @@
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lucasbars/NLW04React">
 </p>
 
-
 <br>
 
 <p align="center">
